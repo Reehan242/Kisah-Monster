@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 436a8cc64ee284546985521051624947, type: 3}
+  m_Name: qtsGolem
+  m_EditorClassIdentifier: 
+  enemyIndex: 3
+  questions:
+  - questionText: Kapan Golem pertama kali muncul di reruntuhan Kota Megah Arkhamar?
+    replies:
+    - 1627xx
+    - 1711xx
+    - 1812xx
+    - 1845xx
+    correctReplayIndex: 0
+  - questionText: Berapa tinggi Golem yang menjaga reruntuhan Arkhamar?
+    replies:
+    - Dua meter
+    - Tiga meter
+    - Empat meter
+    - Lima meter
+    correctReplayIndex: 1
+  - questionText: Seberapa kuat kekuatan para Golem?
+    replies:
+    - Setara 7 petarung tingkat menengah
+    - Lebih lemah dari petarung tingkat bawah
+    - Setara 1 petarung tingkat atas
+    - Setara 4 petarung tingkat atas
+    correctReplayIndex: 3
+  - questionText: Dimana letak reruntuhan Arkhamar?
+    replies:
+    - Di tengah hutan
+    - Di ujung tenggara Gurun Esteril
+    - Di pegunungan tinggi
+    - Di tepi pantai
+    correctReplayIndex: 1
+  - questionText: Mengapa Golem jarang terlibat dalam bentrokan dengan manusia?
+    replies:
+    - Mereka takut pada manusia
+    - Mereka hidup di tempat yang sulit dijangkau
+    - Mereka sangat lemah
+    - Mereka bersembunyi dari manusia
+    correctReplayIndex: 1
+  - questionText: Berapa petarung kelas atas yang terlibat dalam pertempuran dengan
+      Golem pada tahun 1812xx?
+    replies:
+    - Satu
+    - Tiga
+    - Empat
+    - Dua
+    correctReplayIndex: 3
+  - questionText: Apa yang diinginkan oleh regu penjelajah dari Golem?
+    replies:
+    - Mencari harta karun
+    - Mencuri material dari tubuh Golem
+    - Menyegel Golem
+    - Menyembuhkan Golem
+    correctReplayIndex: 1
+  - questionText: Berapa lama pertempuran antara regu penjelajah dan Golem berlangsung?
+    replies:
+    - Satu hari dan satu malam
+    - Dua hari dan dua malam
+    - Tiga hari dan dua malam
+    - Empat hari dan tiga malam
+    correctReplayIndex: 2
+  - questionText: Siapakah nama makhluk yang sedang kau hadapi?
+    replies:
+    - Minotaurus
+    - 'Slime '
+    - Golem
+    - Shub Niggurath
+    correctReplayIndex: 2
+  - questionText: Apa yang menyebabkan regu penjelajah akhirnya mundur dari pertempuran?
+    replies:
+    - Mereka menyadari kekuatan Golem terlalu besar
+    - Mereka kelelahan
+    - Mereka kekurangan persediaan makanan
+    - Mereka diserang oleh Minotaur
+    correctReplayIndex: 0
+  - questionText: Berapa jumlah Golem yang ada sejak awal kemunculan hingga sekarang?
+    replies:
+    - 27
+    - 47
+    - 37
+    - 57
+    correctReplayIndex: 2
+  - questionText: Apa yang dilakukan Golem saat Minotaur melawan Orc pada tahun 1845xx?
+    replies:
+    - Ikut bertarung
+    - Melarikan diri
+    - Melindungi Orc
+    - 'Melihat dari jauh dan tidak peduli '
+    correctReplayIndex: 3
+  - questionText: Bagaimana sikap Golem terhadap masalah di sekitar mereka?
+    replies:
+    - Mereka suka terlibat dalam masalah
+    - Mereka menghindari masalah
+    - Mereka memprovokasi masalah
+    - Mereka mencari bantuan
+    correctReplayIndex: 1
+  - questionText: Apa yang membuat Golem tetap utuh sejak awal kemunculan mereka?
+    replies:
+    - Mereka tidak diserang oleh manusia
+    - Mereka memiliki kekuatan sihir
+    - Mereka hidup di tempat yang sulit dijangkau
+    - Mereka selalu bersembunyi
+    correctReplayIndex: 2

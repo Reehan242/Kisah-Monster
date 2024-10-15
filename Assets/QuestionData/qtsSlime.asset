@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 436a8cc64ee284546985521051624947, type: 3}
+  m_Name: qtsSlime
+  m_EditorClassIdentifier: 
+  enemyIndex: 1
+  questions:
+  - questionText: Di mana Slime menemukan tempat perlindungan setelah melarikan diri
+      dari hutan yang terbakar?
+    replies:
+    - Gunung terdekat
+    - Gurun Esteril
+    - Rawa Luminos
+    - Reruntuhan Arkhamar
+    correctReplayIndex: 2
+  - questionText: Apa yang membuat Slime melarikan diri dari hutan Glimeria?
+    replies:
+    - Tragedi Pembantaian Slime
+    - 'Agresi Minotaur '
+    - Kebakaran Hutan
+    - 'Thanatos Calamity '
+    correctReplayIndex: 2
+  - questionText: Seberapa kuat kekuatan para Slime?
+    replies:
+    - Setara 4 petarung tingkat menengah
+    - Lebih lemah dari petarung tingkat bawah
+    - Setara 1 petarung tingkat atas
+    - Setara 1 petarung tingkat bawah
+    correctReplayIndex: 1
+  - questionText: Dimana Habitat Asli Para Slime?
+    replies:
+    - Hutan Glimeria
+    - Reruntuhan Arkhamar
+    - Lembah Agung
+    - Gurun Pengabdian
+    correctReplayIndex: 0
+  - questionText: Berapa jumlah Slime yang terbunuh saat serangan terhadap desa petani?
+    replies:
+    - 20
+    - 60
+    - 80
+    - 70
+    correctReplayIndex: 3
+  - questionText: Ditahun berapa Hutan Glimeria terbakar?
+    replies:
+    - 1627xx
+    - 1740xx
+    - 1820xx
+    - 1765xx
+    correctReplayIndex: 1
+  - questionText: Mengapa para slime menyerang Desa Petani?
+    replies:
+    - Mereka Suka Kekacauan
+    - Merasa Lapar dan Ingin Memakan Manusia
+    - Merasa Terganggu Oleh Api Penduduk
+    - Mereka Membenci Manusia
+    correctReplayIndex: 2
+  - questionText: Berapa jumlah Slime yang tersisa setelah peristiwa penyerangan
+      Desa Petani?
+    replies:
+    - 130
+    - 30
+    - 80
+    - 150
+    correctReplayIndex: 0
+  - questionText: Siapakah nama makhluk yang sedang kau hadapi?
+    replies:
+    - Minotaurus
+    - 'Slime '
+    - Behemoth
+    - Shub Niggurath
+    correctReplayIndex: 1
+  - questionText: Berapa jumlah Slime yang melakukan penyerangan ke desa petani?
+    replies:
+    - 100
+    - 150
+    - 250
+    - 200
+    correctReplayIndex: 3
+  - questionText: Apa dampak dari serangan Slime terhadap desa petani?
+    replies:
+    - Desa petani hancur total
+    - Tanaman-tanaman di ladang hancur
+    - Desa petani mendapatkan bantuan dari kerajaan
+    - Ada korban jiwa dari penduduk desa
+    correctReplayIndex: 1
+  - questionText: Bagaimana pandangan sebagian orang terhadap kejadian di desa petani?
+    replies:
+    - Mereka mendukung Slime
+    - Mereka berusaha melindungi Slime
+    - Mereka merasa kasihan pada Slime
+    - 'Mereka membenci  Slime '
+    correctReplayIndex: 2
+  - questionText: Sejak kejadian di desa petani, apa sikap Slime terhadap manusia?
+    replies:
+    - Mereka bersahabat dengan manusia
+    - Mereka menghindari manusia
+    - Mereka selalu menyerang manusia yang terlihat
+    - Mereka mencari perlindungan dari manusia
+    correctReplayIndex: 2

@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90c5cf5f4f70bc244a6f2a16cb1a8396, type: 3}
+  m_Name: PriaMisterius
+  m_EditorClassIdentifier: 
+  dialogs:
+  - talkerName: Roxan
+    dialogText: Sudah 3 hari aku disini, bertanya kesana sini, tapi tetap tidak ada
+      yang dapat memberiku petunjuk tentang Monster Calamity
+    avatar: {fileID: -1617191511, guid: 6599740bb797af54ba7f0747320ec28a, type: 3}
+    cut: 0
+    cut2: 0
+    end: 0
+  - talkerName: Roxan
+    dialogText: Kemana lagi aku harus bertanya
+    avatar: {fileID: -1617191511, guid: 6599740bb797af54ba7f0747320ec28a, type: 3}
+    cut: 0
+    cut2: 0
+    end: 0
+  - talkerName: ???
+    dialogText: "Monster\u2026"
+    avatar: {fileID: 21300000, guid: 1476feb4a5419fd409b33dc739a1fa69, type: 3}
+    cut: 0
+    cut2: 0
+    end: 0
+  - talkerName: Roxan
+    dialogText: Hei- kau siapa?!  Kau mengagetkan ku!
+    avatar: {fileID: -1043248024, guid: 6599740bb797af54ba7f0747320ec28a, type: 3}
+    cut: 0
+    cut2: 0
+    end: 0
+  - talkerName: Roxan
+    dialogText: Dan apa maksud perkataan mu itu?
+    avatar: {fileID: -1043248024, guid: 6599740bb797af54ba7f0747320ec28a, type: 3}
+    cut: 0
+    cut2: 0
+    end: 0
+  - talkerName: ???
+    dialogText: "Tanyakan kepada monster\u2026  "
+    avatar: {fileID: 21300000, guid: 1476feb4a5419fd409b33dc739a1fa69, type: 3}
+    cut: 0
+    cut2: 0
+    end: 0
+  - talkerName: ???
+    dialogText: '*Memberikan sebuah kalung*'
+    avatar: {fileID: 21300000, guid: 1476feb4a5419fd409b33dc739a1fa69, type: 3}
+    cut: 0
+    cut2: 0
+    end: 0
+  - talkerName: Roxan
+    dialogText: Hah- aku masih tidak mengerti? dan untuk apa kalung ini?
+    avatar: {fileID: -1043248024, guid: 6599740bb797af54ba7f0747320ec28a, type: 3}
+    cut: 1
+    cut2: 0
+    end: 0
+  - talkerName: Roxan
+    dialogText: Loh- Kemana orang tadi??
+    avatar: {fileID: -1617191511, guid: 6599740bb797af54ba7f0747320ec28a, type: 3}
+    cut: 0
+    cut2: 0
+    end: 0
+  - talkerName: Roxan
+    dialogText: '(Hmm, kenapa pria tadi memberiku kalung ini, dan apa maksud perkataannya) '
+    avatar: {fileID: -1617191511, guid: 6599740bb797af54ba7f0747320ec28a, type: 3}
+    cut: 0
+    cut2: 0
+    end: 0
+  - talkerName: Roxan
+    dialogText: (sebaiknya aku bertanya dengan seseorang )
+    avatar: {fileID: -1617191511, guid: 6599740bb797af54ba7f0747320ec28a, type: 3}
+    cut: 0
+    cut2: 0
+    end: 1

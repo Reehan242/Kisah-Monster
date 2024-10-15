@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 436a8cc64ee284546985521051624947, type: 3}
+  m_Name: qtsMinotaur
+  m_EditorClassIdentifier: 
+  enemyIndex: 2
+  questions:
+  - questionText: Apa yang manusia cari di Gurun Esteril?
+    replies:
+    - Air
+    - Kayu
+    - Harta peninggalan zaman dahulu
+    - Batu permata
+    correctReplayIndex: 2
+  - questionText: Apa yang menyebabkan kedamaian Minotaur terganggu?
+    replies:
+    - Serangan monster lain
+    - 'Agresi Minotaur '
+    - Kebakaran Hutan
+    - Kedatangan manusia tamak
+    correctReplayIndex: 3
+  - questionText: Seberapa kuat kekuatan para Minotaur?
+    replies:
+    - Setara 7 petarung tingkat menengah
+    - Lebih lemah dari petarung tingkat bawah
+    - Setara 1 petarung tingkat atas
+    - Setara 1 petarung tingkat bawah
+    correctReplayIndex: 0
+  - questionText: Berapa populasi awal Minotaur menurut catatan sejarah?
+    replies:
+    - 90 ekor
+    - 100 ekor
+    - 130 ekor
+    - 150 ekor
+    correctReplayIndex: 2
+  - questionText: Berapa jumlah Minotaur yang tersisa setelah perburuan oleh manusia?
+    replies:
+    - 60 ekor
+    - 70 ekor
+    - 80 ekor
+    - 90 ekor
+    correctReplayIndex: 3
+  - questionText: Pada tahun berapa Minotaur memulai agresi?
+    replies:
+    - 1627xx
+    - 1740xx
+    - 1711xx
+    - 1845xx
+    correctReplayIndex: 2
+  - questionText: Ditahun berapa para Orc melintasi Gurun Esteril?
+    replies:
+    - 1748xx
+    - 1825xx
+    - 1845xx
+    - 1789xx
+    correctReplayIndex: 2
+  - questionText: Berapa jumlah Orc yang melawan Minotaur dalam pertempuran?
+    replies:
+    - 120
+    - 110
+    - 80
+    - 150
+    correctReplayIndex: 0
+  - questionText: Siapakah nama makhluk yang sedang kau hadapi?
+    replies:
+    - Minotaurus
+    - 'Slime '
+    - Golem
+    - Shub Niggurath
+    correctReplayIndex: 0
+  - questionText: Berapa jumlah Minotaur yang tersisa setelah pertempuran dengan
+      Orc?
+    replies:
+    - 50
+    - 60
+    - 70
+    - 67
+    correctReplayIndex: 3
+  - questionText: Berapa jumlah Orc yang selamat dari pertempuran melawan Minotaur
+    replies:
+    - 30
+    - 40
+    - 50
+    - 60
+    correctReplayIndex: 1
+  - questionText: Apa sebutan manusia terhadap peristiwa pertempuran antara Orc dan
+      Minotaur?
+    replies:
+    - Pertempuran Hebat
+    - Perang Gurun
+    - Pembantaian Orc oleh Minotaur
+    - Agresi Minotaur
+    correctReplayIndex: 2
+  - questionText: Apa dampak dari peristiwa pembantaian Orc terhadap legenda Minotaur
+      di kalangan manusia?
+    replies:
+    - Minotaur dianggap sahabat manusia
+    - Minotaur diabaikan oleh manusia
+    - Minotaur dianggap sebagai makhluk lemah
+    - Legenda tentang keganasan Minotaur makin menyebar
+    correctReplayIndex: 3
+  - questionText: Apa yang terjadi pada Gurun Esteril setelah peristiwa pertempuran
+      dengan Orc?
+    replies:
+    - Gurun menjadi sepi dan sunyi
+    - Gurun menjadi lebih ramai
+    - Gurun menjadi tempat pertemuan dagang
+    - Gurun diabaikan oleh Minotaur
+    correctReplayIndex: 0
+  - questionText: Siapa yang menghuni Gurun Esteril setelah peristiwa pertempuran
+      dengan Orc?
+    replies:
+    - Manusia petualang
+    - Para Orc yang tersisa
+    - Para Minotaur yang marah dan dendam
+    - Makhluk-makhluk lain
+    correctReplayIndex: 2

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90c5cf5f4f70bc244a6f2a16cb1a8396, type: 3}
+  m_Name: Magic Key
+  m_EditorClassIdentifier: 
+  dialogs:
+  - talkerName: Roxan
+    dialogText: Apakah ini kunci yang dirumorkan dapat membuka semua pintu?
+    avatar: {fileID: -1043248024, guid: 6599740bb797af54ba7f0747320ec28a, type: 3}
+    cut: 0
+    cut2: 0
+    end: 0
+  - talkerName: 
+    dialogText: Kamu mendapatkan "Kunci Ajaib"
+    avatar: {fileID: -380047679, guid: 7a40f207bd696bc48b453ca68a722267, type: 3}
+    cut: 0
+    cut2: 0
+    end: 1

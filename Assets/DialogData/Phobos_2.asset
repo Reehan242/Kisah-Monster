@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90c5cf5f4f70bc244a6f2a16cb1a8396, type: 3}
+  m_Name: Phobos_2
+  m_EditorClassIdentifier: 
+  dialogs:
+  - talkerName: Phobos
+    dialogText: Bagaiamana menurut mu?
+    avatar: {fileID: 1094989258, guid: b8db726b4f7a88d4b97ef5ddbc8c2465, type: 3}
+    cut: 0
+    cut2: 0
+    end: 0
+  - talkerName: Roxan
+    dialogText: Aku tidak menyangka semua ini terjadi karena manusia
+    avatar: {fileID: -1617191511, guid: 6599740bb797af54ba7f0747320ec28a, type: 3}
+    cut: 0
+    cut2: 0
+    end: 0
+  - talkerName: Phobos
+    dialogText: Ya, Keserakahan kalian membawa petaka itu sendiri
+    avatar: {fileID: 1713620753, guid: ad5af9d6f2012d44ea054f1d1b8407e0, type: 3}
+    cut: 0
+    cut2: 0
+    end: 0
+  - talkerName: Phobos
+    dialogText: Dan selama 300 tahun terakhir ini, aku mencari tau asal usulku yang
+      sebenarnya
+    avatar: {fileID: 1094989258, guid: b8db726b4f7a88d4b97ef5ddbc8c2465, type: 3}
+    cut: 0
+    cut2: 0
+    end: 0
+  - talkerName: Phobos
+    dialogText: kini aku tau, bahwa aku adalah anomali yang menghubungkan dunia ini
+      ke dimensi lain
+    avatar: {fileID: 1094989258, guid: b8db726b4f7a88d4b97ef5ddbc8c2465, type: 3}
+    cut: 0
+    cut2: 0
+    end: 0
+  - talkerName: Phobos
+    dialogText: Dimensi dari para monster
+    avatar: {fileID: 1094989258, guid: b8db726b4f7a88d4b97ef5ddbc8c2465, type: 3}
+    cut: 0
+    cut2: 0
+    end: 0
+  - talkerName: Roxan
+    dialogText: Apa itu artinya kau juga dapat mengembalikan para monster ke dimensi
+      mereka?
+    avatar: {fileID: -1043248024, guid: 6599740bb797af54ba7f0747320ec28a, type: 3}
+    cut: 0
+    cut2: 0
+    end: 0
+  - talkerName: Phobos
+    dialogText: Ya aku bisa, tapi aku perlu bantuanmu
+    avatar: {fileID: 1094989258, guid: b8db726b4f7a88d4b97ef5ddbc8c2465, type: 3}
+    cut: 0
+    cut2: 0
+    end: 0
+  - talkerName: Phobos
+    dialogText: Ledakan Monster Calamity, juga memunculkan entitas yang kuat ke dunia
+      para monster, dan kini dia sedang mengacau disana
+    avatar: {fileID: 1094989258, guid: b8db726b4f7a88d4b97ef5ddbc8c2465, type: 3}
+    cut: 0
+    cut2: 0
+    end: 0
+  - talkerName: Phobos
+    dialogText: Selama entitas itu masih ada , aku tidak bisa mengembalikan para
+      monster
+    avatar: {fileID: 1713620753, guid: ad5af9d6f2012d44ea054f1d1b8407e0, type: 3}
+    cut: 0
+    cut2: 0
+    end: 0
+  - talkerName: Roxan
+    dialogText: Aku paham, jadi kau ingin aku mengalahkannya
+    avatar: {fileID: -1043248024, guid: 6599740bb797af54ba7f0747320ec28a, type: 3}
+    cut: 0
+    cut2: 0
+    end: 0
+  - talkerName: Phobos
+    dialogText: Betul sekali, entitas itu tidak akan sadar  jika aku hanya membuka
+      satu portal kecil
+    avatar: {fileID: 1094989258, guid: b8db726b4f7a88d4b97ef5ddbc8c2465, type: 3}
+    cut: 0
+    cut2: 0
+    end: 0
+  - talkerName: Roxan
+    dialogText: Baiklah, akan ku lakukan
+    avatar: {fileID: -1043248024, guid: 6599740bb797af54ba7f0747320ec28a, type: 3}
+    cut: 0
+    cut2: 0
+    end: 0
+  - talkerName: Phobos
+    dialogText: Aku yakin kau bisa, masuklah ke portal itu kapanpun kau siap
+    avatar: {fileID: 1094989258, guid: b8db726b4f7a88d4b97ef5ddbc8c2465, type: 3}
+    cut: 0
+    cut2: 0
+    end: 1

@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90c5cf5f4f70bc244a6f2a16cb1a8396, type: 3}
+  m_Name: Slime Dialog
+  m_EditorClassIdentifier: 
+  dialogs:
+  - talkerName: Slime
+    dialogText: '!!!!!!'
+    avatar: {fileID: 1354525335, guid: 7e000d27670c0454182496aff7d91362, type: 3}
+    cut: 0
+    cut2: 1
+    end: 0
+  - talkerName: Roxan
+    dialogText: Tunggu, aku tidak bermaksud buruk!
+    avatar: {fileID: -1043248024, guid: 6599740bb797af54ba7f0747320ec28a, type: 3}
+    cut: 0
+    cut2: 0
+    end: 0
+  - talkerName: Slime
+    dialogText: MA--NU--SI--A--JA--HAT !!
+    avatar: {fileID: 1354525335, guid: 7e000d27670c0454182496aff7d91362, type: 3}
+    cut: 0
+    cut2: 0
+    end: 0
+  - talkerName: Roxan
+    dialogText: (Hah?!, bagaimana aku bisa mengerti apa yang dia ucapkan, apakah
+      kalung ini membuatku bisa berkomunikasi dengan monster?!)
+    avatar: {fileID: -1617191511, guid: 6599740bb797af54ba7f0747320ec28a, type: 3}
+    cut: 0
+    cut2: 0
+    end: 0
+  - talkerName: Roxan
+    dialogText: Aku kemari, tidak ada niat untuk mengganggu kalian, aku hanya ingin
+      menanyakan sesuatu
+    avatar: {fileID: -1043248024, guid: 6599740bb797af54ba7f0747320ec28a, type: 3}
+    cut: 0
+    cut2: 0
+    end: 0
+  - talkerName: Slime
+    dialogText: "\u2026"
+    avatar: {fileID: 1512567778, guid: 7e000d27670c0454182496aff7d91362, type: 3}
+    cut: 0
+    cut2: 0
+    end: 0
+  - talkerName: Roxan
+    dialogText: Apakah kalian tahu sesuatu tentang Monster Calamity?
+    avatar: {fileID: -1043248024, guid: 6599740bb797af54ba7f0747320ec28a, type: 3}
+    cut: 0
+    cut2: 0
+    end: 0
+  - talkerName: Slime
+    dialogText: "\u2026"
+    avatar: {fileID: 1512567778, guid: 7e000d27670c0454182496aff7d91362, type: 3}
+    cut: 0
+    cut2: 0
+    end: 0
+  - talkerName: Slime
+    dialogText: BEN--CA--NA--MA--NU--SI--A....
+    avatar: {fileID: 1354525335, guid: 7e000d27670c0454182496aff7d91362, type: 3}
+    cut: 0
+    cut2: 0
+    end: 0
+  - talkerName: Roxan
+    dialogText: (Uhh, aku tidak mengerti, sebaiknya aku lanjut perjalanan saja setidaknya
+      aku tau fungsi kalung ini sekarang)
+    avatar: {fileID: -1043248024, guid: 6599740bb797af54ba7f0747320ec28a, type: 3}
+    cut: 0
+    cut2: 0
+    end: 1

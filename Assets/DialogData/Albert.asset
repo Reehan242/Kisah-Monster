@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90c5cf5f4f70bc244a6f2a16cb1a8396, type: 3}
+  m_Name: Albert
+  m_EditorClassIdentifier: 
+  dialogs:
+  - talkerName: Albert - Petarung Tingkat Bawah
+    dialogText: Halo Pengembara
+    avatar: {fileID: 21300000, guid: bb962b67c97c20e43925b71951442e89, type: 3}
+    cut: 0
+    cut2: 0
+    end: 0
+  - talkerName: Albert - Petarung Tingkat Bawah
+    dialogText: Berhati hatilah , Slime di depan sana tampak agresif
+    avatar: {fileID: 21300000, guid: bb962b67c97c20e43925b71951442e89, type: 3}
+    cut: 0
+    cut2: 0
+    end: 1
